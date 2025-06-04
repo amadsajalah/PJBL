@@ -1,0 +1,13 @@
+Array
+(
+    [user] => Array
+        (
+            [user_id] => 20
+            [first_name] => fazle
+            [last_name] => aza
+            [email] => faza@gmail.com
+            [phone] => 
+        )
+
+    [success_message] => Berhasil login! Selamat datang, fazle!
+)

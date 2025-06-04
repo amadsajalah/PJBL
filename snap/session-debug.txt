@@ -1,0 +1,22 @@
+Array
+(
+    [user_id] => 20
+    [user] => Array
+        (
+            [first_name] => fazle
+            [last_name] => aza
+            [email] => faza@gmail.com
+            [phone] => 
+        )
+
+    [alamat] => Array
+        (
+            [telepon] => 088220074311
+            [provinsi] => Jawa Barat
+            [kota] => Bekasi
+            [kecamatan] => Bekasi Selatan
+            [kodepos] => 50274
+            [alamat] => Kp.Bukitrejo Tandang
+        )
+
+)
